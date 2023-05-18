@@ -17,6 +17,6 @@ This approach will help you grasp the concepts faster since programming keywords
 >You have windows use cmd / powershell / wsl (ubuntu) , just install g++
 >You have MacOs use the terminal to compile , install g++ if not available 
 #### What IDE (editor) ?
-> What ever :) `Kate` is available in MacOs , `vsCode` is also awseome , `Xcode in MacOs` supports also C/C++
+> What ever :) `Kate` is available in MacOs , `vsCode` is also awseome , `Xcode in MacOs` supports also C/C++.
 > I do not recommand `Sublime Text` 
 #### Good Luck
