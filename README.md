@@ -9,5 +9,14 @@ This approach will help you grasp the concepts faster since programming keywords
 #### To compile a cpp code , execute the following command : 
 `g++ main.cpp class1.cpp class2.cpp ... classN.cpp -o OutputFileName`
 #### For exampel lets compile the calculator example : 
-`g++ main.cpp Calculator.cpp -o calculator`
+>`g++ main.cpp Calculator.cpp -o calculator`
 > the main function is main() and only one class Calculator.cpp and my executable file is calculator
+#### Do i need openSuse to learn ? 
+>The most of 1 / 2 semster students , think that they must have OpenSuse to learn C/C++ .
+>No it's wrong , use windows or MacOs also to learn , don't waste your time booting a new OS.
+>You have windows use cmd / powershell / wsl (ubuntu) , just install g++
+>You have MacOs use the terminal to compile , install g++ if not available 
+#### What IDE (editor) ?
+> What ever :) `Kate` is available in MacOs , `vsCode` is also awseome , `Xcode in MacOs` supports also C/C++
+> I do not recommand `Sublime Text` 
+#### Good Luck
