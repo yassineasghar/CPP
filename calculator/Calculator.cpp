@@ -1,5 +1,8 @@
 // Calculator.cpp
-// In object-oriented programming, a class is a blueprint for creating objects // (instances) that share common properties and behaviors. It encapsulates data // and functions into a single entity. In the calculator program, the class is // called "Calculator". It contains member functions (such as add(), ////
+// In object-oriented programming, a class is a blueprint for creating objects 
+// (instances) that share common properties and behaviors. It encapsulates data 
+// and functions into a single entity. In the calculator program, the class is 
+// called "Calculator". It contains member functions (such as add(), 
 // subtract(), multiply(), and divide()) that define the operations performed
 // by the calculator. The class can have member variables as well, although in
 // this particular program, there are no member variables.
