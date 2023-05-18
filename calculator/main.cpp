@@ -1,12 +1,14 @@
 // main.cpp
-// The main() function in C++ is the entry point of the program, where the execution begins. // In the calculator program, the main() function is defined in the "main.cpp" file. It //
-// interacts with the Calculator class by creating an instance of the class (Calculator //
-// calc;) and calling its member functions (calc.add(), calc.subtract(), etc.) to perform //
+// The main() function in C++ is the entry point of the program, where the execution begins. 
+// In the calculator program, the main() function is defined in the "main.cpp" file. 
+// It interacts with the Calculator class by creating an instance of the class 
+// (Calculator calc;) and calling its member functions (calc.add(), calc.subtract(), etc.) to perform
 // arithmetic operations. The main() function also handles user input and output using cin
 // and cout, respectively.
 
 // Warning : Calling only the header in this main.cpp file
-          // Do not call the .cpp here , the header calls teh declared functions in the     // main() , and teh claa functions are called from .cpp through the header
+          // Do not call the .cpp here , the header calls teh declared functions in the     
+          // main() , and teh claa functions are called from .cpp through the header
 
 #include <iostream>
 #include "Calculator.h"
